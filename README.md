@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Marc
 - 👀 I’m interested in useful DIY with 3d printing, IoT and recycling
-- 🌱 I’m currently learning how to print ABS ;)
